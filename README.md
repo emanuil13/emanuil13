@@ -1,9 +1,9 @@
 ## Hi there 👋
 🌱 I’m currently learning
- *C++
- *Java
- *Python
- *SQL
+ /n*C++
+ /n*Java
+ /n*Python
+ /n*SQL
 
 
 <!--
